@@ -1,0 +1,8 @@
+EARTHLOGGER BOARD
+M:	Yuri A. Rodrigues <yuri@mrd.com.au>
+S:	Maintained
+F:	board/mrd/earthlogger/
+F:	include/configs/earthlogger.h
+F:	configs/earthlogger_defconfig
+F:	configs/earthloggerrecovery_defconfig
+
